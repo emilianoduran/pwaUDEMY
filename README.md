@@ -12,6 +12,5 @@ Luego para ejecutar el servidor<br>
  `http-server`
 
 # Documentación MDN web docs
-[Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/prototype)
-
-[Estado de las Promesas](Doc/estados-de-las-promesas.pdf)
+1.[Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/prototype)
+2.[Estado de las Promesas](Doc/estados-de-las-promesas.pdf)
