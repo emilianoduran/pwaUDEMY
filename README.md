@@ -20,6 +20,8 @@ Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto
 
 ### Ejercicios
 
+[prom-1.js](Unidades\01-funamentos\js\prom-1.js)
+
 ```javascript
 console.log('FUNDAMENTOS');
 
