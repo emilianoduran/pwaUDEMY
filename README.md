@@ -18,6 +18,11 @@ Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto
 - [Promise.race()](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/race)
 - [Estado de las Promesas](Doc/estados-de-las-promesas.pdf)
 - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Response)
+- [Utilizando Fetch](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch)
+- [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
+- [HmlHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState)
+
+
 ### Ejercicios Promesas
 
 [prom-1.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-1.js) |
@@ -29,5 +34,8 @@ Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto
 
 [fetch-1.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/fetch-1.js) |
 [fetch-2.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/fetch-2.js) |
-[prom-3.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-3.js) |
-[prom-4.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-4.js) |
+[fetch-3.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/fetch-3.js) |
+[fetch-4.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/fetch-4.js) |
+[fetch-5.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/fetch-5.js) |
+[fetch-6.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/fetch-6.js) |
+[tarea.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/tarea.js) |

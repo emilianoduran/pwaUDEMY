@@ -18,7 +18,8 @@ fetch(URLGet)
 	.then(res => res.json())
 	.then(console.log);
 
-// ejercicio adicional
+// ejercicio adicional // trae una parte del contenido del curso y lo inyecta en el html
+// const main = document.querySelector('.main-container');
 // const udemyContainer = document.getElementById('pageUdemy');
 // const proxyurl = 'https://cors-anywhere.herokuapp.com/';
 // const url = 'https://www.udemy.com/course/aplicaciones-web-progresivas/';
@@ -28,4 +29,17 @@ fetch(URLGet)
 // 		console.log(html);
 // 		let template = html;
 // 		udemyContainer.innerHTML = template;
+// 	})
+// 	.then(() => {
+// 		select();
 // 	});
+
+// const select = () => {
+// 	let summary = document.querySelector('.ud-component--clp--curriculum');
+// 	console.log(summary);
+// 	let template = summary;
+// 	let container = document.createElement('div');
+// 	container.setAttribute('class', 'container-summary');
+// 	main.removeChild(udemyContainer);
+// 	main.appendChild(template);
+// };
