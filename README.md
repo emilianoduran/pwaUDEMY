@@ -12,4 +12,4 @@ Luego para ejecutar el servidor<br>
  `http-server`
 
 # Documentación MDN web docs
-[Promesas] (https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/prototype)
+[Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/prototype)
