@@ -1,9 +1,12 @@
-console.log('PromiseAll');
+console.log(
+	'%c=== File:/ Prom III ===',
+	"	color: #bb0453	;font-size:10px; background:rgb(19, 2, 9);;padding:10px;border: 1px dotted #bb0453; width:200px;font-family:'fira code';font-weight:bold",
+);
 
-const addSlow = value => {
+const addSlow2 = value => {
 	return new Promise((resolve, reject) => {
 		// console.log(`SLOW>>> ${value}`);
-		if (value >= 10) {
+		if (value >= 20) {
 			reject('El número es muy alto');
 		}
 
@@ -13,10 +16,10 @@ const addSlow = value => {
 	});
 };
 
-const addFast = value => {
+const addFast2 = value => {
 	return new Promise((resolve, reject) => {
 		// console.log(`FAST>>> ${value}`);
-		if (value >= 10) {
+		if (value >= 20) {
 			reject('El número es Alto');
 		}
 		setTimeout(() => {
@@ -29,25 +32,25 @@ const hasFinished = name => {
 	console.log(`<<<${name} has finished>>>`);
 };
 
-let addS = addSlow(1)
-	.then(addSlow)
-	.then(addSlow)
-	.then(addSlow)
-	.then(addSlow)
-	.then(addSlow)
+let addS = addSlow2(1)
+	.then(addSlow2)
+	.then(addSlow2)
+	.then(addSlow2)
+	.then(addSlow2)
+	.then(addSlow2)
 	.then(() => hasFinished('SLOW<<<<'))
 	.catch(err => console.error(err));
 
-let addF = addFast(1)
-	.then(addFast)
-	.then(addFast)
-	.then(addFast)
-	.then(addFast)
-	.then(addFast)
+let addF = addFast2(1)
+	.then(addFast2)
+	.then(addFast2)
+	.then(addFast2)
+	.then(addFast2)
+	.then(addFast2)
 	.then(() => hasFinished('FAST>>>'))
 	.catch(err => console.log(err));
 
-let tareas = [addFast(8), addSlow(1), addFast(5), addSlow(3), true, addFast(3)];
+let tareas = [addFast2(8), addSlow2(1), addFast2(5), addSlow2(3), true, addFast2(3)];
 
 Promise.all(tareas)
 	.then(console.log)

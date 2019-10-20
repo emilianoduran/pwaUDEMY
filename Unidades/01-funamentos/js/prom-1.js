@@ -1,4 +1,7 @@
-console.log('FUNDAMENTOS');
+console.log(
+	'%c=== File:/ Prom I ===',
+	"	color: #bb0453	;font-size:10px; background:rgb(19, 2, 9);;padding:10px;border: 1px dotted #bb0453; width:200px;font-family:'fira code';font-weight:bold",
+);
 
 function sumarUno(value, callback) {
 	if (value >= 7) {

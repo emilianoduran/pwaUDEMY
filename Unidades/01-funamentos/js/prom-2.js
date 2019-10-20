@@ -1,9 +1,12 @@
-console.log('PROMESAS');
+console.log(
+	'%c=== File:/ Prom II ===',
+	"	color: #bb0453	;font-size:10px; background:rgb(19, 2, 9);;padding:10px;border: 1px dotted #bb0453; width:200px;font-family:'fira code';font-weight:bold",
+);
 
 const addOne = value => {
 	//  declare promise
 	let promise = new Promise((resolve, reject) => {
-		if (value >= 3) {
+		if (value >= 13) {
 			reject('algo');
 		}
 		setTimeout(() => {
@@ -30,7 +33,7 @@ addOne(5)
 
 const add2 = value => {
 	let promise = new Promise((resolve, reject) => {
-		if (value >= 8) {
+		if (value >= 20) {
 			reject('El número es my Alto');
 		}
 		setTimeout(() => {
@@ -56,7 +59,7 @@ add2(5)
 
 const add3 = value => {
 	let promise = new Promise((resolve, reject) => {
-		if (value >= 6) {
+		if (value >= 13) {
 			reject('valor Alto');
 		}
 		setTimeout(() => {
