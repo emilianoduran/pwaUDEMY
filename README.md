@@ -8,9 +8,9 @@
 Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto realizaremos la instalación de http-server
 ### intalar  http-server
 
-`npm install -g http-server`<br>
-Luego para ejecutar el servidor<br>
-`http-server`
+1. `npm install -g http-server`
+2. Luego para ejecutar el servidor
+3. `http-server`
 
 # Documentación MDN web docs
 - [Promesas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/prototype)
