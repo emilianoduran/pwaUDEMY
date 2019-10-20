@@ -11,4 +11,5 @@ Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto
 Luego para ejecutar el servidor<br>
  `http-server`
 
- exitit 
+# Documentación MDN web docs
+[Promesas] (https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/prototype)
