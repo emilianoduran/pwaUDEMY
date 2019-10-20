@@ -5,7 +5,7 @@
 
 ## Fundamentos
 
-Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto realizaremos la instalación de http-server
+Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto realizaremos la instalación de http-server aunque otra opción podría ser la extención de Visual Studio Code [Live Server-GitHub](https://github.com/ritwickdey/vscode-live-server)
 ### intalar  http-server
 
 1. `npm install -g http-server`
