@@ -20,8 +20,8 @@ Para porder trabajar necesitaremos un servidor de archivos estáticos. Para esto
 
 ### Ejercicios Promesas
 
-[prom-1.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-1.js)<br>
-[prom-2.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-2.js)<br>
-[prom-3.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-3.js)<br>
-[prom-4.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-4.js)<br>
+[prom-1.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-1.js) |
+[prom-2.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-2.js) |
+[prom-3.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-3.js) |
+[prom-4.js](https://github.com/emilianoduran/pwaUDEMY/blob/fundamentos/Unidades/01-funamentos/js/prom-4.js) |
 
