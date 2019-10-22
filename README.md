@@ -144,12 +144,12 @@ Un sw se compone de muchos eventsListeners que escuchan eventos como
 
 Eventos | Descripción
 ------------ | -------------
-install | Cuando se instala
-activate | Cuando se activa el sw
-push | Cuando recibe una notificación push
-fetch | Cuando hace algún fetch
-sync | Cuando se recupera la conexión a internet y necesita sincronizar la data
-message | Cuando recibe algun mensaje de la app
+`install` | Cuando se instala
+`activate` | Cuando se activa el sw
+`push` | Cuando recibe una notificación push
+`fetch` | Cuando hace algún fetch
+`sync` | Cuando se recupera la conexión a internet y necesita sincronizar la data
+`message` | Cuando recibe algun mensaje de la app
 
 
 
