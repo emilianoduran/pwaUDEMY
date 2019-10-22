@@ -1,5 +1,5 @@
-![header](./Doc/img/header.png)
- <img src="./Doc/img/intro.png" style="width:800px" alt="header"/>
+<!-- ![header](./Doc/img/header.png) -->
+ <img src="./Doc/img/UdemyLogo.svg" style="width:800px;margin-left:auto;margin-right:auto;" alt="Captura de pantalla diapositiva del curso"/>
 # información acerca del curso
 ⭐⭐⭐⭐⭐ 4,8 (1.216 valoraciones)
 
